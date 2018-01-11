@@ -1,4 +1,4 @@
-FROM centos:centos7
+FROM centos:centos7.4.1708
 MAINTAINER Kevin Coakley <kcoakley@sdsc.edu>
 
 ENV container docker
