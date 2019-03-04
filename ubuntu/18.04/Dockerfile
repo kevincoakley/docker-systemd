@@ -1,4 +1,4 @@
-FROM ubuntu:bionic-20180426
+FROM ubuntu:bionic-20190204
 MAINTAINER Kevin Coakley <kcoakley@sdsc.edu>
 
 ENV container docker
