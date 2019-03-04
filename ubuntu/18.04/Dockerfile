@@ -9,6 +9,7 @@ RUN apt-get update && apt-get install -y \
     openssh-server \
     openssh-client \
     apt-utils \
+    sudo \
  && rm -rf /var/lib/apt/lists/*
 
 RUN systemctl set-default multi-user.target
