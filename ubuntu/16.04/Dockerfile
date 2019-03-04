@@ -1,4 +1,4 @@
-FROM ubuntu:xenial-20180417
+FROM ubuntu:xenial-20190122
 MAINTAINER Kevin Coakley <kcoakley@sdsc.edu>
 
 ENV container docker
